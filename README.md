@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ahmed-Abdelhamee
 - 👀 I’m FrontEnd web developer
-- 💞️ I’m looking to collaborate on your company
 - 📫 contact me at medoabdelhameed3@gmail.com
 
 <!---
