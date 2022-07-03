@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ahmed-Abdelhamee
-- 👀 I’m interested in FrontEnd web develop
-- 🌱 I’m currently learning programming
+- 👀 I’m FrontEnd web developer
 - 💞️ I’m looking to collaborate on your company
-- 📫 How to reach me at medoabdelhameed3@gmail.com
+- 📫 contact me at medoabdelhameed3@gmail.com
 
 <!---
 Ahmed-Abdelhamee/Ahmed-Abdelhamee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
